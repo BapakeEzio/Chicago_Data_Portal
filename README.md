@@ -47,3 +47,7 @@ Analysis is performed using **Python, Pandas, SQLite**.
 1. Clone this repository:  
    ```bash
    git clone https://github.com/BapakeEzio/Chicago_Data_Portal.git
+
+📜 License
+
+This project is for educational / personal portfolio purposes.
