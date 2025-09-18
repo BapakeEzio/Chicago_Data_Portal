@@ -82,7 +82,8 @@ Chicago_Data_Portal/
 ├─ data/                     # Folder to store datasets
 ├─ screenshots/              # Folder for visualizations (PNG or GIF)
 └─ README.md                 # Documentation
+
+
 📜 License
 This project is for educational / personal portfolio purposes.
 
-This project is for educational / personal portfolio purposes.
